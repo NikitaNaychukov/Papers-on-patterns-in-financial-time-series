@@ -1,6 +1,6 @@
 # Here you can found two papers: 
-- # Distance functions to cluster financial timeseries #: This paper describes conventional distances (Euclidean, Manhattan, Minkowski, etc.) with its efficacy with regard to clustering financial time series 
-- # Novel distance function to cluster financial data #: This paper describes the novel “shapelets” approach by Eamonn Keogh combined with image recognition techniques of Anurag Mittal applied to clustering financial time series
+- *Distance functions to cluster financial timeseries*: This paper describes conventional distances (Euclidean, Manhattan, Minkowski, etc.) with its efficacy with regard to clustering financial time series 
+- *Novel distance function to cluster financial data*: This paper describes the novel “shapelets” approach by Eamonn Keogh combined with image recognition techniques of Anurag Mittal applied to clustering financial time series
 
 
 # Abstract
